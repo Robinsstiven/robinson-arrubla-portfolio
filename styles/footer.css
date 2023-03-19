@@ -1,0 +1,22 @@
+.footer-background {
+  background-color: rgb(49, 0, 128);
+  border-top: 1px solid rgba(250, 250, 250, 0.849);
+  box-shadow: 0 -3px 3px rgba(0, 0, 0, 0.2);
+  background-position: 100%;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.footer-elements {
+  width: 240px;
+  margin: 0 40px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+.footer-li {
+  list-style-type: none;
+}
